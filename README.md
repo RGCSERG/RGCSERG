@@ -7,7 +7,7 @@
 
 - currently learning **c, c++**
 
-- currently working on [RestCord.py](https://github.com/RGCSERG/RestCord.py)
+- currently working on [Resuto.py](https://github.com/RGCSERG/Resuto.py)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
