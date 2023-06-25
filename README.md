@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=RGCSERG&icon=5&color=2)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Currently working on [PowerProfiler](https://github.com/RGCSERG/PowerProfiler)<br>Currently learning React and FastAPI<br>England Based
 
@@ -19,6 +21,6 @@ Currently working on [PowerProfiler](https://github.com/RGCSERG/PowerProfiler)<b
 ![](https://github-contributor-stats.vercel.app/api?username=RGCSERG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RGCSERG&icon=5&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
