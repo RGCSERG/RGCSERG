@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=RGCSERG&icon=5&color=2)](https://visitcount.itsvg.in)
 
 # About Me:
-Currently working on [gssr](https://github.com/RGCSERG/gssr) and [sprocket](https://github.com/RGCSERG/sprocket)<br>Currently learning React, nodejs and FastAPI<br>England Based
+Currently working on [gssr](https://github.com/RGCSERG/gssr) and [sprocket](https://github.com/RGCSERG/sprocket.py)<br>Currently learning React, nodejs and FastAPI<br>England Based
 
 
 ## Socials:
